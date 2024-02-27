@@ -5,6 +5,7 @@ metadata:
   annotations:
     github.com/project-slug: JosephYostos/secure-inline-scan-examples
 spec:
-  type: other
-  lifecycle: unknown
+  type: service
+  lifecycle: experimental
+  system: happiness-app
   owner: guests
