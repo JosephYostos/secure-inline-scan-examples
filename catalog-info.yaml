@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: secure-inline-scan-examples
+  annotations:
+    github.com/project-slug: JosephYostos/secure-inline-scan-examples
+spec:
+  type: other
+  lifecycle: unknown
+  owner: guests
