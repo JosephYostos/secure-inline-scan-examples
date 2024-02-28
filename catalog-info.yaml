@@ -15,7 +15,6 @@ metadata:
     sysdigcloud.com/registry-name: registry-harbor-registry.registry.svc.cluster.local:5443
     # Posture
     sysdigcloud.com/resource-name: sock-shop-carts
-    sysdigcloud.com/resource-type: "Deployment"
 
 spec:
   type: service
