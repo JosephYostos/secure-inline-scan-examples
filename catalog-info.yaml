@@ -4,7 +4,6 @@ metadata:
   name: secure-inline-scan-examples
   annotations:
     github.com/project-slug: JosephYostos/secure-inline-scan-examples
-    sysdigcloud.com/image-freetext: docker.io/josephyostos/testactions
 spec:
   type: service
   lifecycle: experimental
