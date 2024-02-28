@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: secure-inline-scan-examples
+  name: sock-shop-cart
   annotations:
     github.com/project-slug: JosephYostos/secure-inline-scan-examples
     sysdigcloud.com/image-freetext: docker.io/josephyostos/testactions
