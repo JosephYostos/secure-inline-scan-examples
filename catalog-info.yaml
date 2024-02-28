@@ -19,5 +19,4 @@ metadata:
 spec:
   type: service
   lifecycle: experimental
-  system: happiness-app
   owner: guests
