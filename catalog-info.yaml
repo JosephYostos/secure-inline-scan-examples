@@ -6,7 +6,7 @@ metadata:
     github.com/project-slug: JosephYostos/secure-inline-scan-examples
     sysdigcloud.com/image-freetext: docker.io/josephyostos/testactions
     # VM Runtime
-    sysdigcloud.com/kubernetes-cluster-name: sock-shop-cluster
+    # sysdigcloud.com/kubernetes-cluster-name: sock-shop-cluster
     sysdigcloud.com/kubernetes-namespace-name: sock-shop
     sysdigcloud.com/kubernetes-workload-name: sock-shop-carts
     sysdigcloud.com/kubernetes-workload-type: deployment
